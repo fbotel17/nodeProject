@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "security.allowedUNCHosts": [
+        "192.168.65.68"
+    ],
+    "remote.SSH.remotePlatform": {
+        "192.168.65.68": "linux"
+    }
+}
